@@ -1,7 +1,11 @@
 # TANDA DEV Code v0.1
 
 Tanda is a defi ecosystem using the XRP ledger and developing code.
+A Tanda is the Latin American term for an informal rotating savings and credit association (ROSCAS).
 
+They are operated globally, but have over 200 different names that vary from country to country.
+
+Bringing a Tanda to the world of crypto and decentralized finance (DeFi) can unlock transparency, security, and global access while preserving its collaborative essence.
 
 
 ## Available Scripts
